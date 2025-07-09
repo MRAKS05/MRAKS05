@@ -21,11 +21,14 @@
 
 <div align="center">
   <h2>About</h2>
-Currently working on [Shutro.App](https://github.com/Omnyrix/Shutro.App), which helps students prepare for exams by quickly viewing formulas and solving example questions.</div>
+  <p>Currently working on <a href="https://github.com/Omnyrix/Shutro.App">Shutro.App</a>, which helps students prepare for exams by quickly viewing formulas and solving example questions.</p>
+</div>
 
 <div align="center">
   <h2>Vision</h2>
-Want to make the word a better place by implementing AI and Automation in every part of the system.</div>
+  <p>Want to make the world a better place by implementing AI and Automation in every part of the system.</p>
+</div>
+
 
 <!--
 📌 Template Notes (only visible in edit mode):
