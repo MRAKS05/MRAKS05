@@ -21,7 +21,7 @@
 
 <div align="center">
   <h2>About</h2>
-  <p>Currently working on <a href="https://github.com/Omnyrix/Shutro.App">Shutro.App</a>, which helps students prepare for exams by quickly viewing formulas and solving example questions.</p>
+  <p>Not Currently Active as a Developer</p>
 </div>
 
 <div align="center">
